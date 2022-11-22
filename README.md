@@ -1,1 +1,1 @@
-# tnsm-data
+# Data used in article "An Intelligent System for DDoS Attack Prediction Based on Early Warning Signals". DOI 10.1109/TNSM.2022.3223881
